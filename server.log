@@ -1,0 +1,8 @@
+2025-11-26 10:00:01 INFO: System boot sequence initiated.
+2025-11-26 10:00:05 INFO: Database connection established.
+2025-11-26 10:15:22 WARNING: High memory usage detected (85%).
+2025-11-26 10:18:00 ERROR: Connection timeout - Database 54.21.10.2 unreachable.
+2025-11-26 10:18:05 ERROR: Connection timeout - Retrying...
+2025-11-26 10:18:10 CRITICAL: Service shutdown due to DB failure.
+2025-11-26 10:20:00 INFO: System restart initiated.
+2025-11-26 10:20:05 INFO: Database connection established.
